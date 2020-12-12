@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TareaSemana2</string>
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_fecha">Fecha de Nacimiento</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion">Descripción Contacto</string>
+    <string name="texto_botonsig">Siguiente</string>
+    <string name="titulo_2">Confirmar Datos</string>
+    <string name="prueba">Texto de prueba</string>
+    <string name="label_fecha">Fecha Nacimiento:</string>
+    <string name="label_telefono">Tel:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_descripcion">Descripción:</string>
+    <string name="texto_botonedi">Editar Datos</string>
+
+    <string name="pnombre">Nombre</string>
+    <string name="pfecha">Fecha</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">Descripcion</string>
+    <string name="ok">OK</string>
+
+
+</resources>

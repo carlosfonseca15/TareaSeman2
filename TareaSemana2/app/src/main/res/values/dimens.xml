@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding_lin">5dp</dimen>
+    <dimen name="layout_padding_rela">10dp</dimen>
+    <dimen name="size_titulo">25sp</dimen>
+    <dimen name="margen_botton">10dp</dimen>
+    <dimen name="size_fecha">16sp</dimen>
+    <dimen name="datepiker_layout_height">120dp</dimen>
+
+</resources>
